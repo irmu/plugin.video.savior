@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.saviour" name="SAVIOUR Repository" version="1.0.0" provider-name="Lórien">
+	<extension point="xbmc.addon.repository" name="SAVIOUR Repository">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/irmu/plugin.video.saviour/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/irmu/plugin.video.saviour/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/irmu/plugin.video.saviour/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">SAVIOUR Repository</summary>
+		<description lang="en">SAVIOUR Repository</description>
+		<genre></genre>
+	</extension>
+</addon>
