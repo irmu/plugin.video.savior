@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	 <category label = "General">		<setting id="cache_enabled" type="bool" label="Enable Caching" default="true"/>	</category>	<category label="Scrapers 1">
+		<setting label="ExtraMovies" type="lsep"/>
+		<setting id="ExtraMovies_enabled" type="bool" label="Enabled" default="true"/>
+		<setting label="MyDownloadtube" type="lsep"/>
+		<setting id="MyDownloadtube_enabled" type="bool" label="Enabled" default="true"/>
+		<setting label="TVRelease" type="lsep"/>
+		<setting id="TVRelease_enabled" type="bool" label="Enabled" default="true"/>
+	</category>
+</settings>
